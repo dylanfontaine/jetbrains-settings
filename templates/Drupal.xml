@@ -1,0 +1,28 @@
+<templateSet group="Drupal">
+  <template name="wdar" value="if (!isset($VAR$[$KEY$])) {&#10;    watchdog(__FUNCTION__, '&lt;pre&gt;' . print_r($VAR$, TRUE) . '&lt;/pre&gt;');&#10;}" description="add a watchdog to print an array" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wdob" value="if (!isset($VAR$-&gt;$KEY$)) {&#10;    watchdog(__FUNCTION__, '&lt;pre&gt;' . print_r($VAR$, TRUE) . '&lt;/pre&gt;');&#10;}" description="add a watchdog to print an object" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wdbt" value="if (!isset($VAR$)) {&#10;    watchdog(__FUNCTION__, '&lt;pre&gt;' . print_r(debug_backtrace(2), TRUE) . '&lt;/pre&gt;');&#10;}" description="add a watchdog to print a backtrace" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wdvr" value="if (($VAR$)) {&#10;    watchdog(__FUNCTION__, '&lt;pre&gt;' . print_r($VAR$, TRUE) . '&lt;/pre&gt;');&#10;    watchdog(__FUNCTION__, '&lt;pre&gt;' . print_r(debug_backtrace(2), TRUE) . '&lt;/pre&gt;');&#10;}" description="add a watchdog with a predicate function" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
