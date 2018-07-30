@@ -1,17 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.7.0" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="7cb342" />
+    <option name="accentColor" value="E91E63" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="userId" value="-15fbb947:1647fbcd999:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
