@@ -8,6 +8,8 @@
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="history" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
