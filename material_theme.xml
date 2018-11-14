@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.2" />
+    <option name="version" value="2.1.5.3" />
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
@@ -10,11 +10,5 @@
     <option name="tabsHeight" value="25" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
-    <option name="settingsSelectedTab" value="5" />
-    <option name="userId" value="-15fbb947:1647fbcd999:-7fff" />
-    <option name="allowDataCollection" value="true" />
-    <option name="isHighContrast" value="true" />
-    <option name="overrideAccentColor" value="true" />
-    <option name="isWizardShown" value="true" />
   </component>
 </application>
