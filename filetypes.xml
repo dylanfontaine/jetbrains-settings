@@ -1,13 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="ftl" type="HTML" />
       <mapping ext="info" type="Ini" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="TelusServicesMobilityApiPhoneNumberNewDataProvider.inc" type="PLAIN_TEXT" />
       <mapping pattern="history" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
