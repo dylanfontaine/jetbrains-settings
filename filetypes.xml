@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="ftl" type="HTML" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="drush" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
