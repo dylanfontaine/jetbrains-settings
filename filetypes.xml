@@ -10,6 +10,8 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="TelusServicesMobilityApiPhoneNumberNewDataProvider.inc" type="PLAIN_TEXT" />
+      <mapping pattern="ff" type="PLAIN_TEXT" />
+      <mapping pattern="asfd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="history" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
