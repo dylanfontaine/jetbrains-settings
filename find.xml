@@ -27,5 +27,6 @@
     <mask>*.js</mask>
     <mask>!*.test,!*.install</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
