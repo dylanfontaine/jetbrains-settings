@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.install" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,7 +17,6 @@
     <mask>*.test</mask>
     <mask>*.module</mask>
     <mask>*.engine</mask>
-    <mask>*.install</mask>
     <mask>*.phtml</mask>
     <mask>*.profile</mask>
     <mask>*.ctp</mask>
@@ -28,5 +28,6 @@
     <mask>!*.test,!*.install</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.install</mask>
   </component>
 </application>
