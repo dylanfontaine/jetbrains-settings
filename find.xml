@@ -29,5 +29,6 @@
     <mask>*.yml</mask>
     <mask>*.install</mask>
     <mask>*.services.yml</mask>
+    <mask>*.routing.yml</mask>
   </component>
 </application>
