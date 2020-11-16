@@ -3,20 +3,20 @@
     <extensionMap>
       <mapping ext="ftl" type="HTML" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="drush" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="install" type="PHP" />
-      <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="asfd" type="PLAIN_TEXT" />
-      <mapping pattern="TelusServicesMobilityApiPhoneNumberNewDataProvider.inc" type="PLAIN_TEXT" />
-      <mapping pattern="ff" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="history" type="PLAIN_TEXT" />
+      <mapping pattern="asfd" type="PLAIN_TEXT" />
       <mapping pattern="functional" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="TelusServicesMobilityApiPhoneNumberNewDataProvider.inc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="dist" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
     </extensionMap>
