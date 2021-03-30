@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ftl" type="HTML" />
       <mapping ext="info" type="Ini" />
+      <mapping pattern="*.neon.dist" type="Neon" />
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
@@ -17,8 +18,9 @@
       <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="XML" />
+      <mapping pattern="*.xml.dist" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
+      <removed_mapping ext="dist" approved="true" type="XML" />
     </extensionMap>
   </component>
 </application>
