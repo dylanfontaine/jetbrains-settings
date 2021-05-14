@@ -4,6 +4,7 @@
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -20,6 +21,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="78bd366a:16713c48032:-7fff" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.4.1" />
   </component>
 </application>
